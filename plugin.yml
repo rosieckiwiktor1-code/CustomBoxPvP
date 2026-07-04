@@ -1,0 +1,4 @@
+name: BuildLimit
+version: 1.0
+main: me.example.buildlimit.BuildLimit
+api-version: '1.21'
